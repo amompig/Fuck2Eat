@@ -1,0 +1,119 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-page: oklch(0.98 0.005 85);
+    --bg-card: oklch(1 0 0);
+    --bg-card-subtle: oklch(0.96 0.008 85);
+    --bg-elevated: oklch(0.99 0.005 85);
+    --border-subtle: oklch(0.90 0.01 85);
+    --border-strong: oklch(0.78 0.02 85);
+    
+    --text-primary: oklch(0.20 0.02 260);
+    --text-secondary: oklch(0.42 0.02 260);
+    --text-muted: oklch(0.58 0.015 260);
+
+    /* Single accent: Warm Ochre / Amber Coral (Saturation < 80%) */
+    --accent-base: oklch(0.62 0.17 48);
+    --accent-hover: oklch(0.56 0.18 48);
+    --accent-light: oklch(0.95 0.04 50);
+    --accent-border: oklch(0.85 0.08 50);
+    --accent-contrast: oklch(0.99 0.01 50);
+
+    /* Functional semantic states */
+    --badge-curator-bg: oklch(0.94 0.05 150);
+    --badge-curator-text: oklch(0.32 0.12 150);
+    --badge-curator-border: oklch(0.86 0.08 150);
+
+    --focus-ring: oklch(0.62 0.17 48);
+  }
+
+  .dark {
+    --bg-page: oklch(0.14 0.015 260);
+    --bg-card: oklch(0.18 0.02 260);
+    --bg-card-subtle: oklch(0.22 0.02 260);
+    --bg-elevated: oklch(0.24 0.02 260);
+    --border-subtle: oklch(0.28 0.02 260);
+    --border-strong: oklch(0.40 0.02 260);
+
+    --text-primary: oklch(0.94 0.01 85);
+    --text-secondary: oklch(0.76 0.015 85);
+    --text-muted: oklch(0.58 0.015 85);
+
+    --accent-base: oklch(0.72 0.16 52);
+    --accent-hover: oklch(0.76 0.16 52);
+    --accent-light: oklch(0.25 0.05 52);
+    --accent-border: oklch(0.36 0.08 52);
+    --accent-contrast: oklch(0.12 0.02 260);
+
+    --badge-curator-bg: oklch(0.25 0.06 150);
+    --badge-curator-text: oklch(0.85 0.08 150);
+    --badge-curator-border: oklch(0.35 0.08 150);
+
+    --focus-ring: oklch(0.72 0.16 52);
+  }
+
+  html {
+    font-size: 16px;
+    line-height: 1.55;
+    color: var(--text-primary);
+    background-color: var(--bg-page);
+    min-height: 100dvh;
+    overflow-x: hidden;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    min-height: 100dvh;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  }
+}
+
+/* Accessibility & Focus-visible */
+:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 2px;
+}
+
+/* Touch targets >= 44px */
+.touch-target {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Content visibility optimization for large restaurant cards */
+.virtual-card {
+  content-visibility: auto;
+  contain-intrinsic-size: 120px;
+}
+
+/* Wheel animation: single-direction deceleration, NO bounce */
+@keyframes spinWheel {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(var(--target-deg, 1800deg));
+  }
+}
+
+.wheel-spin {
+  animation: spinWheel var(--spin-duration, 2.8s) cubic-bezier(0.17, 0.67, 0.16, 1) forwards;
+}
+
+/* Prefers reduced motion: instant result, no rotation */
+@media (prefers-reduced-motion: reduce) {
+  .wheel-spin {
+    animation: none !important;
+    transform: rotate(var(--target-deg, 0deg)) !important;
+    transition: opacity 150ms ease-out !important;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

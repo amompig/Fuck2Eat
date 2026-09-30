@@ -1,0 +1,6 @@
+{
+  "name": "等等吃啥 - 桃園美食決策收斂器",
+  "description": "先用硬條件濾掉不可能的，再從剩下的抽一家。收錄 82 筆真實桃園人私藏美食清單，無業配評分、支援轉盤公平抽與加權抽。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

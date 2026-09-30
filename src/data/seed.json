@@ -1,0 +1,3232 @@
+{
+  "meta": {
+    "scope": "桃園",
+    "districts": [
+      "桃園區",
+      "中壢區",
+      "蘆竹區",
+      "龜山區",
+      "八德區",
+      "大園區",
+      "大溪區",
+      "平鎮區"
+    ],
+    "cuisines": [
+      "早午餐",
+      "咖啡",
+      "熱炒",
+      "義大利麵",
+      "台菜",
+      "義式",
+      "小吃",
+      "日式",
+      "甜品",
+      "吃到飽",
+      "豆花",
+      "燉飯",
+      "早餐",
+      "海鮮",
+      "拉麵",
+      "冰品",
+      "甜點",
+      "宵夜",
+      "披薩",
+      "中式包點",
+      "火鍋",
+      "港式",
+      "燒臘",
+      "便當",
+      "快餐",
+      "炒飯",
+      "燒烤",
+      "豆腐",
+      "炸物",
+      "無菜單",
+      "餐酒館",
+      "烤鴨",
+      "餐酒",
+      "水煎包",
+      "小酒館",
+      "燒肉",
+      "小籠包",
+      "肉舖",
+      "羊肉",
+      "牛肉",
+      "中菜",
+      "定食",
+      "台式家常",
+      "串燒",
+      "派",
+      "雞排",
+      "西式",
+      "自助餐",
+      "景觀",
+      "越式",
+      "米線",
+      "酒吧",
+      "東山鴨頭",
+      "客家",
+      "家常",
+      "東北菜",
+      "鐵鍋燉",
+      "北方麵食",
+      "碳烤",
+      "薑母鴨",
+      "滷味",
+      "擔仔麵",
+      "漢堡",
+      "小火鍋",
+      "便利商店",
+      "炸雞",
+      "餐廳",
+      "鹽酥雞",
+      "鹹粥",
+      "米粉湯",
+      "韓式",
+      "銅盤烤肉",
+      "串香",
+      "麻辣",
+      "湯包",
+      "牛肉麵"
+    ],
+    "generated_at": "2026-09-30",
+    "source_list": "「桃園人私藏美食清單」（脆上他人分享的 Google Maps 共用清單，476 個地點）",
+    "method": [
+      "店名與策展者註記：使用者提供的螢幕錄影抽格判讀",
+      "地址/電話/營業時間/價格：逐家搜尋公開食記與平台頁面，只取事實層",
+      "🔴 未使用也未儲存任何 Google 評論、評分或 Places 內容"
+    ],
+    "coverage": {
+      "total": 82,
+      "with_address": 70,
+      "with_hours": 63,
+      "with_price": 46,
+      "with_district": 73
+    },
+    "caveats": [
+      "hours 為盡力解析；hours_parsed=false 者請以 hours_raw 顯示、不納入『現在營業』篩選",
+      "closed_days: 0=日 … 6=六",
+      "overnight=true 代表跨午夜（如 17:00-02:00），判斷『現在營業』時需特別處理",
+      "price_min/max 由文字推得，僅供區間篩選，顯示請用 price_raw",
+      "lat/lng/place_id 尚缺 —— demo Tier 1 的行政區分布圖不需要座標"
+    ]
+  },
+  "restaurants": [
+    {
+      "id": "t001",
+      "name": "BINGOBISTRO",
+      "district": "中壢區",
+      "address": null,
+      "phone": "0956886787",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "餐酒館"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "12:00",
+          "close": "24:00",
+          "overnight": false
+        },
+        {
+          "open": "12:00",
+          "close": "01:00",
+          "overnight": true
+        }
+      ],
+      "hours_raw": "一至四、日 12:00-24:00；五、六 12:00-01:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "小芳推薦",
+      "confidence": "med",
+      "notes": "老街溪捷運站步行6分／中壢火車站10分",
+      "sources": [
+        "iOPEN Mall",
+        "城鄉特色網"
+      ]
+    },
+    {
+      "id": "t002",
+      "name": "林家-台式烤鴨莊（建國總店）",
+      "district": "桃園區",
+      "address": "桃園市桃園區建國路1號",
+      "phone": "03-3760628",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "烤鴨",
+        "台菜"
+      ],
+      "price_min": 400,
+      "price_max": 730,
+      "price_raw": "全鴨730／半鴨400",
+      "hours": [
+        {
+          "open": "10:00",
+          "close": "20:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "10:00-20:30",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：炒鴨醬香加高麗菜讚讚",
+      "confidence": "high",
+      "notes": "桃鶯路與建國路口，桃園後站；建議先電話預訂",
+      "sources": [
+        "艾瑪吃喝玩樂",
+        "愛食記",
+        "fonfood",
+        "蘋果樹",
+        "老皮嫩肉"
+      ]
+    },
+    {
+      "id": "t003",
+      "name": "鴨霸美食館",
+      "district": "桃園區",
+      "address": "桃園市桃園區新埔七街85號",
+      "phone": "0953019089",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "台菜",
+        "熱炒"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "14:00",
+          "overnight": false
+        },
+        {
+          "open": "16:30",
+          "close": "20:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "一至日 11:00-14:00、16:30-20:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：糖醋魚片、四季肥腸",
+      "confidence": "high",
+      "notes": "⚠️ Google Maps 面板顯示「新埔七街50號後巷」，與搜尋到的 85 號有出入，待確認；2010-11-23 設立，負責人吳水生",
+      "sources": [
+        "技術新報公司資料",
+        "飢餓黑熊",
+        "business.site"
+      ]
+    },
+    {
+      "id": "t004",
+      "name": "Tiger 灶咖 早午餐｜義大利麵｜咖啡",
+      "district": "桃園區",
+      "address": "330桃園市桃園區正光二街71巷21號",
+      "phone": "03-3477227",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "早午餐",
+        "義大利麵",
+        "咖啡"
+      ],
+      "price_min": 129,
+      "price_max": 219,
+      "price_raw": "日式奶油時蔬咖哩219／松露起司薯條129／秘製台式鹹酥雞139",
+      "hours": [
+        {
+          "open": "10:00",
+          "close": "19:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "10:00-19:00（最後點餐18:30）",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎妹推薦：義大利麵、魚排飯",
+      "confidence": "high",
+      "notes": "中路特區；Mr.tiger 第二間店",
+      "sources": [
+        "VIVIYU",
+        "德妹看新世界",
+        "WalkerLand",
+        "多篇痞客邦"
+      ]
+    },
+    {
+      "id": "t005",
+      "name": "大囍豆花",
+      "district": "八德區",
+      "address": "桃園市八德區福興里廣興路48號",
+      "phone": "0916523005",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "豆花",
+        "甜品"
+      ],
+      "price_min": 65,
+      "price_max": 65,
+      "price_raw": "豆花65",
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "19:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:00-19:00（週一、二公休）",
+      "hours_parsed": true,
+      "closed_days": [
+        1,
+        2
+      ],
+      "curator_note": "IG推薦＋嘎嘎推薦：圓豆花口感很特別，咬下能品嚐到豆香，份量很足，缺點是人好多",
+      "confidence": "high",
+      "notes": "興仁花園夜市商圈；大溪賴媽媽豆花二代店；現場吃免費續糖水",
+      "sources": [
+        "WalkerLand",
+        "Threads @penguin_foody",
+        "Uber Eats",
+        "痞客邦"
+      ]
+    },
+    {
+      "id": "t006",
+      "name": "Piatto bianco 皮亞托披薩餐酒",
+      "district": "桃園區",
+      "address": "桃園市桃園區永安路506號1樓",
+      "phone": "03-3385101",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "義式",
+        "披薩",
+        "餐酒"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "11:30",
+          "close": "14:30",
+          "overnight": false
+        },
+        {
+          "open": "17:30",
+          "close": "21:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "週三至日 11:30-14:30、17:30-21:30",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：烏魚子鮮蝦海螺麵",
+      "confidence": "high",
+      "notes": "手工窯烤披薩、自製義大利麵；有 inline 訂位",
+      "sources": [
+        "愛食記",
+        "inline",
+        "OpenRice",
+        "痞客邦"
+      ]
+    },
+    {
+      "id": "t007",
+      "name": "來呷brunch（無訂位・開放式廚房）",
+      "district": "桃園區",
+      "address": "桃園市桃園區敬二街38號",
+      "phone": "03-3010703",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "早午餐",
+        "燉飯",
+        "義大利麵"
+      ],
+      "price_min": 335,
+      "price_max": 335,
+      "price_raw": "均消約$335",
+      "hours": [
+        {
+          "open": "10:00",
+          "close": "19:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "10:00-19:00（公休依FB公布）",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：好吃早午餐，飲料也好喝，酥皮濃湯，蘋果美式好喝",
+      "confidence": "high",
+      "notes": "不提供訂位、先到先入座",
+      "sources": [
+        "VIVIYU",
+        "大食女",
+        "愛伯特",
+        "Uber Eats"
+      ]
+    },
+    {
+      "id": "t008",
+      "name": "林阿嬤香酥水煎包八德店",
+      "district": "八德區",
+      "address": "桃園市八德區興豐路848號",
+      "phone": "0926210595",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "水煎包",
+        "中式包點"
+      ],
+      "price_min": 24,
+      "price_max": 24,
+      "price_raw": "均消約24",
+      "hours": [
+        {
+          "open": "06:00",
+          "close": "10:00",
+          "overnight": false
+        },
+        {
+          "open": "15:00",
+          "close": "19:00",
+          "overnight": false
+        },
+        {
+          "open": "06:30",
+          "close": "10:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "一至五 06:00-10:00、15:00-19:00；六 06:30-10:00；週日公休",
+      "hours_parsed": true,
+      "closed_days": [
+        0
+      ],
+      "curator_note": "同學推薦",
+      "confidence": "high",
+      "notes": "半煎炸；高麗菜與韭菜兩種口味；更寮腳",
+      "sources": [
+        "愛食記",
+        "愛伯特",
+        "VIVIYU",
+        "蘋果樹",
+        "潔絲蜜",
+        "潔妮"
+      ]
+    },
+    {
+      "id": "t009",
+      "name": "祥祥台式小餐館",
+      "district": "中壢區",
+      "address": "桃園市中壢區九和五街32號",
+      "phone": "03-4266995",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "台菜",
+        "熱炒",
+        "小酒館"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "16:30",
+          "close": "00:00",
+          "overnight": true
+        },
+        {
+          "open": "11:00",
+          "close": "14:30",
+          "overnight": false
+        },
+        {
+          "open": "16:30",
+          "close": "22:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "平日 16:30-00:00；假日 11:00-14:30、16:30-22:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "FB推薦",
+      "confidence": "high",
+      "notes": "沒訂位吃不到；招牌炸雞炒飯、麻奶豬五花鍋燒麵、烈火花枝、鮮小卷米粉湯",
+      "sources": [
+        "食尚玩家",
+        "雯雯的玩樂地圖",
+        "痞客邦",
+        "MENU店+",
+        "foodpanda",
+        "Uber Eats"
+      ]
+    },
+    {
+      "id": "t010",
+      "name": "日光商行（早餐、早午餐）",
+      "district": "桃園區",
+      "address": "330桃園市桃園區日光路86號",
+      "phone": "03-3330318",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "早午餐",
+        "早餐"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "06:30",
+          "close": "13:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "06:30-13:30",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：CP值高、好吃",
+      "confidence": "high",
+      "notes": "文青風早餐店；熱壓藍莓乳酪可頌、香煎嫩雞拼盤、地瓜球、肉燥麵",
+      "sources": [
+        "VIVIYU",
+        "Yahoo新聞",
+        "GOMAJI",
+        "大嘴巴"
+      ]
+    },
+    {
+      "id": "t011",
+      "name": "問鼎・皇上吉祥 麻辣養生鍋-桃園藝文",
+      "district": "桃園區",
+      "address": "330桃園市桃園區同德五街61號4樓（中茂新天地）",
+      "phone": "03-3558901",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "火鍋",
+        "吃到飽"
+      ],
+      "price_min": 158,
+      "price_max": 688,
+      "price_raw": "鍋底158/人，低消350/人；吃到飽688起",
+      "hours": [
+        {
+          "open": "11:30",
+          "close": "22:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:30-22:30",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：吃到飽麻辣鍋，品質高",
+      "confidence": "high",
+      "notes": "馬辣集團；16種哈根達斯吃到飽；有兒童遊戲室",
+      "sources": [
+        "愛伯特",
+        "蘋果樹",
+        "踢小米",
+        "溫蒂",
+        "abic"
+      ]
+    },
+    {
+      "id": "t012",
+      "name": "香港黎記燒臘",
+      "district": "大溪區",
+      "address": "桃園市大溪區慈湖路81號",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "港式",
+        "燒臘"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "肯尼推薦",
+      "confidence": "med",
+      "notes": "⚠️ 只查到地址；營業時間與價格查無。注意在大溪，與清單其他店距離較遠",
+      "sources": [
+        "footinder"
+      ]
+    },
+    {
+      "id": "t013",
+      "name": "吃肉肉 CHIH ROU ROU 燒肉專門店",
+      "district": "桃園區",
+      "address": "桃園市桃園區春日路636號2樓",
+      "phone": "03-3567766",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "燒肉",
+        "吃到飽"
+      ],
+      "price_min": 858,
+      "price_max": 2980,
+      "price_raw": "套餐858/998/1069/1168；和牛預約套餐1880/2280/2980",
+      "hours": [
+        {
+          "open": "11:30",
+          "close": "16:00",
+          "overnight": false
+        },
+        {
+          "open": "17:30",
+          "close": "22:30",
+          "overnight": false
+        },
+        {
+          "open": "11:00",
+          "close": "24:00",
+          "overnight": false
+        },
+        {
+          "open": "11:00",
+          "close": "23:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "一至四 11:30-16:00、17:30-22:30；五 至24:00；六 11:00-24:00；日 11:00-23:30",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦",
+      "confidence": "high",
+      "notes": "A5和牛吃到飽、34種手搖飲無限；建議訂位；另有中壢店",
+      "sources": [
+        "blake.com.tw",
+        "食尚玩家",
+        "愛伯特",
+        "inline",
+        "痞客邦"
+      ]
+    },
+    {
+      "id": "t014",
+      "name": "九福包子",
+      "district": "桃園區",
+      "address": "桃園市桃園區中正路338號",
+      "phone": "03-3397472",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "中式包點",
+        "早餐"
+      ],
+      "price_min": 9,
+      "price_max": 12,
+      "price_raw": "肉包/韭菜包 9；甜豆漿 12",
+      "hours": [
+        {
+          "open": "04:30",
+          "close": "11:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "04:30-11:00，週一公休",
+      "hours_parsed": true,
+      "closed_days": [
+        1
+      ],
+      "curator_note": "嘎嘎推薦",
+      "confidence": "high",
+      "notes": "桃園大廟商圈；現擀現包現蒸；靈魂蔥醬",
+      "sources": [
+        "ETtoday",
+        "VIVIYU",
+        "愛吃鬼芸芸",
+        "愛伯特",
+        "蘋果樹",
+        "小佳"
+      ]
+    },
+    {
+      "id": "t015",
+      "name": "崎頂小籠包",
+      "district": "大溪區",
+      "address": "桃園市大溪區新興街3號",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "小籠包",
+        "早餐"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "05:00",
+          "close": "11:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "05:00-11:00，週一公休",
+      "hours_parsed": true,
+      "closed_days": [
+        1
+      ],
+      "curator_note": "嘎嘎推薦：小籠包　🔴永久歇業",
+      "confidence": "high",
+      "notes": "🔴🔴 【清單標永久歇業，但網路資料（2021年食記）仍寫營業中】←【同上：部落格資料停在寫文那天】",
+      "sources": [
+        "愛食記",
+        "WalkerLand",
+        "OpenRice",
+        "潔絲蜜",
+        "民宿女王芽月"
+      ]
+    },
+    {
+      "id": "t016",
+      "name": "喜冰甜品 JOYICE",
+      "district": "蘆竹區",
+      "address": "桃園市蘆竹區中山路130號",
+      "phone": "03-3110369",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "冰品",
+        "甜品"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "15:00",
+          "close": "21:30",
+          "overnight": false
+        },
+        {
+          "open": "13:00",
+          "close": "21:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "一至五 15:00-21:30；六日及國定假日 13:00-21:30",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：黑糖刨冰、芋泥",
+      "confidence": "high",
+      "notes": "豆花、仙草、刨冰、雪花冰、甜湯、關東煮",
+      "sources": [
+        "footinder",
+        "Uber Eats",
+        "foodpanda",
+        "台灣公司網"
+      ]
+    },
+    {
+      "id": "t017",
+      "name": "伴時 BAN SHI 義式小館",
+      "district": "桃園區",
+      "address": "桃園市桃園區信光路83號",
+      "phone": "03-3350026",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "義式",
+        "義大利麵"
+      ],
+      "price_min": 60,
+      "price_max": 210,
+      "price_raw": "均消約200；義大利麵/燉飯135起；奶油牛肉焗烤斜管麵200、青醬雞肉210、玉米酥皮濃湯60",
+      "hours": [
+        {
+          "open": "12:00",
+          "close": "15:00",
+          "overnight": false
+        },
+        {
+          "open": "17:00",
+          "close": "20:30",
+          "overnight": false
+        },
+        {
+          "open": "12:00",
+          "close": "15:10",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "平日 12:00-15:00、17:00-20:30；假日 12:00-15:10",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎妹推薦：酥皮濃湯",
+      "confidence": "high",
+      "notes": "桃園夜市附近；加95元附濃湯蒜香麵包飲料",
+      "sources": [
+        "愛食記",
+        "WalkerLand",
+        "footinder",
+        "痞客邦"
+      ]
+    },
+    {
+      "id": "t018",
+      "name": "豪鮮肉舖桃園店",
+      "district": "桃園區",
+      "address": "桃園市桃園區正光路209號",
+      "phone": "02-26099617",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "肉舖"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "12:00",
+          "close": "21:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "12:00-21:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "麥可媽推薦",
+      "confidence": "high",
+      "notes": "十八養場通路；非餐廳是肉品門市",
+      "sources": [
+        "hfmeatshop 官網",
+        "FB",
+        "IG"
+      ]
+    },
+    {
+      "id": "t019",
+      "name": "Make Eat Work 早方法 藝文店",
+      "district": "桃園區",
+      "address": "桃園市桃園區中正路1413號",
+      "phone": "03-3022188",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "早午餐",
+        "義大利麵",
+        "燉飯"
+      ],
+      "price_min": 100,
+      "price_max": 450,
+      "price_raw": "均消450；餐點100-410",
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "15:30",
+          "overnight": false
+        },
+        {
+          "open": "17:30",
+          "close": "20:30",
+          "overnight": false
+        },
+        {
+          "open": "10:30",
+          "close": "15:30",
+          "overnight": false
+        },
+        {
+          "open": "17:30",
+          "close": "20:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "二至五 11:00-15:30、17:30-20:30；六日 10:30-15:30、17:30-20:30；週一公休",
+      "hours_parsed": true,
+      "closed_days": [
+        1
+      ],
+      "curator_note": "嘎嘎推薦：沙拉、辣奶油牛排",
+      "confidence": "high",
+      "notes": "韓系文青質感；另有青埔店",
+      "sources": [
+        "愛食記",
+        "letsplay",
+        "VIVIYU",
+        "OpenTable",
+        "多篇痞客邦"
+      ]
+    },
+    {
+      "id": "t020",
+      "name": "盧記羊肉飯",
+      "district": null,
+      "address": null,
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "羊肉",
+        "小吃"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "脆友推薦",
+      "confidence": "none",
+      "notes": "🔴 查無桃園店資訊。命中的是台南盧記簡速餐、高雄盧記羊肉爐等其他店",
+      "sources": []
+    },
+    {
+      "id": "t021",
+      "name": "山寨99熱炒",
+      "district": "龜山區",
+      "address": "桃園市龜山區萬壽路二段976號",
+      "phone": "03-3290098",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "熱炒",
+        "台菜"
+      ],
+      "price_min": 100,
+      "price_max": 200,
+      "price_raw": "多數菜色100-200",
+      "hours": [
+        {
+          "open": "16:30",
+          "close": "01:30",
+          "overnight": true
+        },
+        {
+          "open": "16:30",
+          "close": "02:00",
+          "overnight": true
+        },
+        {
+          "open": "16:30",
+          "close": "01:00",
+          "overnight": true
+        }
+      ],
+      "hours_raw": "一至四 16:30-01:30；五六 16:30-02:00；日 16:30-01:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：乾煎豬肝、蒜味中卷、客家小炒",
+      "confidence": "high",
+      "notes": "白飯與冰淇淋吃到飽；菜色上百種；招牌乾煎豬肝",
+      "sources": [
+        "愛食記",
+        "愛伯特",
+        "WalkerLand",
+        "蘋果樹",
+        "阿綿",
+        "七先生與艾小姐"
+      ]
+    },
+    {
+      "id": "t022",
+      "name": "牛仔子專店",
+      "district": "桃園區",
+      "address": "330桃園市桃園區中山東路137號",
+      "phone": "03-3373939",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "牛肉",
+        "中菜"
+      ],
+      "price_min": 60,
+      "price_max": 190,
+      "price_raw": "牛雜麵110／炒牛肉180／炒毛肚190；飯麵類約60-80",
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "貞嫱推薦",
+      "confidence": "med",
+      "notes": "⚠️營業時間查無。民國35年屏東萬巒創業，現第三代；青溪國中附近",
+      "sources": [
+        "OpenRice",
+        "footinder",
+        "VIVIYU",
+        "洋洋的吃喝玩樂"
+      ]
+    },
+    {
+      "id": "t023",
+      "name": "綿綿豆花屋",
+      "district": null,
+      "address": null,
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "豆花",
+        "甜品"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：桂圓、鳳梨鵝大推，店家人很好",
+      "confidence": "none",
+      "notes": "🔴 查無。命中的全是桃園其他豆花店",
+      "sources": []
+    },
+    {
+      "id": "t024",
+      "name": "貓屋冰館（手工冰霜桃園龜山店）",
+      "district": "龜山區",
+      "address": "桃園市龜山區明德路19號（鄉公所圓環公園旁）",
+      "phone": "03-3509258",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "冰品",
+        "甜品"
+      ],
+      "price_min": 15,
+      "price_max": 300,
+      "price_raw": "一球15／兩球30／三球40；雙拼家庭號300；六小福禮盒220",
+      "hours": [
+        {
+          "open": "11:30",
+          "close": "22:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:30-22:00（下大雨、颱風不營業）",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "貞嫱推薦",
+      "confidence": "high",
+      "notes": "開業13年；純天然無色素；另有豆花、飲料、鬆餅、熱壓三明治",
+      "sources": [
+        "WalkerLand",
+        "艾瑪",
+        "fonfood",
+        "阿綿",
+        "Fun假趣旅行"
+      ]
+    },
+    {
+      "id": "t025",
+      "name": "荃灣燒臘店｜桃園店",
+      "district": "桃園區",
+      "address": null,
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "港式",
+        "燒臘"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "14:00",
+          "overnight": false
+        },
+        {
+          "open": "16:30",
+          "close": "20:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "一至六 11:00-14:00、16:30-20:00；週日公休",
+      "hours_parsed": true,
+      "closed_days": [
+        0
+      ],
+      "curator_note": "嘎嘎推薦：CP值很高，雖然進店有點霉味，但三寶飯$115沒得嫌了",
+      "confidence": "med",
+      "notes": "⚠️ 有營業時間但地址查無；脆皮燒肉、叉燒必點",
+      "sources": [
+        "阿綿吃Fun最大",
+        "蘋果樹桃園燒臘懶人包"
+      ]
+    },
+    {
+      "id": "t026",
+      "name": "初嚐・Jia Liao Liao",
+      "district": "蘆竹區",
+      "address": "桃園市蘆竹區南順八街36號",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "定食",
+        "台式家常"
+      ],
+      "price_min": 250,
+      "price_max": 250,
+      "price_raw": "NT$250",
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "",
+      "confidence": "med",
+      "notes": "⚠️ 營業時間查無。南崁巷弄；重機與動漫主題；90分鐘限時、18席、現金",
+      "sources": [
+        "VIVIYU",
+        "iCHEF 線上點餐",
+        "LINE熱點",
+        "FB/IG"
+      ]
+    },
+    {
+      "id": "t027",
+      "name": "巧甄快餐",
+      "district": "桃園區",
+      "address": "330桃園市桃園區民有三街468號",
+      "phone": "03-3564908",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "便當",
+        "快餐",
+        "炒飯"
+      ],
+      "price_min": 30,
+      "price_max": 100,
+      "price_raw": "均消100；脆皮雞腿飯90／肉絲炒飯70／紫菜蛋花湯30",
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "14:00",
+          "overnight": false
+        },
+        {
+          "open": "17:00",
+          "close": "20:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:00-14:00、17:00-20:30",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "",
+      "confidence": "high",
+      "notes": "公司登記曾在寶山街217號後遷現址",
+      "sources": [
+        "愛食記",
+        "PTT Taoyuan",
+        "footinder",
+        "台灣公司網",
+        "FB"
+      ]
+    },
+    {
+      "id": "t028",
+      "name": "Kenangan COFFEE 凱娜克咖啡",
+      "district": "桃園區",
+      "address": "新光三越桃園店 B1 美食廣場（詳細地址查無）",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "咖啡"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "椰子系列咖啡",
+      "confidence": "med",
+      "notes": "⚠️ 印尼品牌，台灣第三間店。另有中壢車站店 → 🔴分店歧義，需確認清單指的是哪一家",
+      "sources": [
+        "食尚玩家",
+        "Marie Claire",
+        "VERSE",
+        "官網"
+      ]
+    },
+    {
+      "id": "t029",
+      "name": "Fra 義大利餐廳",
+      "district": "桃園區",
+      "address": "桃園市桃園區大有路417-3號1F",
+      "phone": "0932-718801",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "義式"
+      ],
+      "price_min": 10,
+      "price_max": 700,
+      "price_raw": "平日低消500+10%；假日低消700+10%",
+      "hours": [
+        {
+          "open": "12:00",
+          "close": "15:00",
+          "overnight": false
+        },
+        {
+          "open": "18:00",
+          "close": "21:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "週三至日 12:00-15:00、18:00-21:00（最後入座 午13:30／晚19:30）",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "脆友推薦",
+      "confidence": "high",
+      "notes": "預約制；大有商圈、桃林鐵路旁；Trattoria 風格",
+      "sources": [
+        "OpenRice",
+        "inline",
+        "安妮的天空",
+        "痞客邦",
+        "IG"
+      ]
+    },
+    {
+      "id": "t030",
+      "name": "小洋蔥義大利麵食坊",
+      "district": "中壢區",
+      "address": "桃園市中壢區九和一街66號",
+      "phone": "03-4223118",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "義式",
+        "義大利麵"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "14:00",
+          "overnight": false
+        },
+        {
+          "open": "17:00",
+          "close": "20:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:00-14:00、17:00-20:30（不定時公休）",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "脆友推薦",
+      "confidence": "high",
+      "notes": "紅醬白醬；蕃茄雞柳、茄汁肉醬、奶油雞柳。⚠️愛食記標平鎮區、其他來源標中壢區，需確認",
+      "sources": [
+        "愛食記",
+        "foodpanda",
+        "Uber Eats",
+        "痞客邦"
+      ]
+    },
+    {
+      "id": "t031",
+      "name": "驅魔串燒－藝文本店",
+      "district": "桃園區",
+      "address": "桃園市桃園區南平路100-5號",
+      "phone": "0970450109",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "串燒",
+        "燒烤"
+      ],
+      "price_min": 25,
+      "price_max": 50,
+      "price_raw": "每串約25-50",
+      "hours": [
+        {
+          "open": "17:00",
+          "close": "00:00",
+          "overnight": true
+        }
+      ],
+      "hours_raw": "17:00-00:00，週二公休",
+      "hours_parsed": true,
+      "closed_days": [
+        2
+      ],
+      "curator_note": "嘎妹推薦：雞屁股、香腸、豆皮、剝皮辣椒牛",
+      "confidence": "high",
+      "notes": "先炸後烤；可內用；另有南崁店 → ⚠️分店",
+      "sources": [
+        "痞客邦 Ellen's",
+        "Uber Eats",
+        "iCHEF",
+        "FB"
+      ]
+    },
+    {
+      "id": "t032",
+      "name": "四葉甜波士頓派",
+      "district": null,
+      "address": null,
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "甜點",
+        "派"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：香草波士頓派，鮮奶油帶香草香氣，濃郁到像冰淇淋",
+      "confidence": "none",
+      "notes": "🔴 地址/時間查無（Uber Eats 有列此店但無地址）。搜尋主要命中桃園佳樂蛋糕，非同一家",
+      "sources": [
+        "Uber Eats"
+      ]
+    },
+    {
+      "id": "t033",
+      "name": "LaiFu Pasta 萊福義大利麵",
+      "district": "中壢區",
+      "address": "桃園市中壢區莊敬路811巷16號",
+      "phone": "03-2850253",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "義式",
+        "義大利麵"
+      ],
+      "price_min": 90,
+      "price_max": 290,
+      "price_raw": "義大利麵240-290；A套餐90；乳酪條100",
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "20:00",
+          "overnight": false
+        },
+        {
+          "open": "15:00",
+          "close": "17:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:00-20:00（六日 15:00-17:00 休息）",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：雙層牛肉堡、洋蔥圈、奶茶",
+      "confidence": "high",
+      "notes": "內壢巷弄；寵物友善；4.9分504則",
+      "sources": [
+        "foodpanda",
+        "footinder",
+        "痞客邦",
+        "Threads @nala_yeh23",
+        "IG"
+      ]
+    },
+    {
+      "id": "t034",
+      "name": "雞排王子",
+      "district": "平鎮區",
+      "address": "桃園市平鎮區民族路111號",
+      "phone": "0918121335",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "雞排",
+        "小吃"
+      ],
+      "price_min": 80,
+      "price_max": 80,
+      "price_raw": "招牌雞排約80",
+      "hours": [],
+      "hours_raw": "下午開始至賣完為止，不定期公休（老闆於IG限動公布）",
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "經過排隊（筆記）",
+      "confidence": "high",
+      "notes": "前中壢夜市協力雞排；賣近40年；常提早售完",
+      "sources": [
+        "WalkerLand",
+        "蹦啾謝蘿莉",
+        "蘋果樹",
+        "Threads @ryan0988"
+      ]
+    },
+    {
+      "id": "t035",
+      "name": "食知味台式熱炒",
+      "district": "桃園區",
+      "address": "桃園市桃園區桃鶯路410-1號",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "熱炒",
+        "台菜",
+        "宵夜"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "17:00",
+          "close": "02:00",
+          "overnight": true
+        }
+      ],
+      "hours_raw": "17:00-02:00，週一公休",
+      "hours_parsed": true,
+      "closed_days": [
+        1
+      ],
+      "curator_note": "IG推薦",
+      "confidence": "high",
+      "notes": "環境接近餐廳等級；鳳梨蝦球",
+      "sources": [
+        "TikTok @eg830426",
+        "小雞上工",
+        "愛食記"
+      ]
+    },
+    {
+      "id": "t036",
+      "name": "大民生平價海鮮",
+      "district": "桃園區",
+      "address": "桃園市桃園區民生路377號",
+      "phone": "03-3335505",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "海鮮",
+        "熱炒",
+        "宵夜"
+      ],
+      "price_min": 100,
+      "price_max": 100,
+      "price_raw": "熱炒100元起；白飯無限",
+      "hours": [
+        {
+          "open": "17:00",
+          "close": "02:00",
+          "overnight": true
+        }
+      ],
+      "hours_raw": "二至日 17:00-02:00，週一公休（最晚點餐01:00）",
+      "hours_parsed": true,
+      "closed_days": [
+        1
+      ],
+      "curator_note": "嘎妹＋嘎嘎推薦：蚵仔酥、橙汁排骨、回鍋肉、鳳梨蝦球",
+      "confidence": "high",
+      "notes": "海港直送；滑蛋蝦仁、塔香茄子、鳳梨蝦球",
+      "sources": [
+        "fonfood",
+        "阿綿",
+        "footinder",
+        "GOMAJI",
+        "LINE熱點"
+      ]
+    },
+    {
+      "id": "t037",
+      "name": "樹朵",
+      "district": "桃園區",
+      "address": "330桃園市桃園區陽明六街36號",
+      "phone": "03-3613375",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "西式",
+        "義大利麵",
+        "早午餐"
+      ],
+      "price_min": 90,
+      "price_max": 1980,
+      "price_raw": "主餐360-1480；菜單90-1980",
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "19:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:00-19:30，週一公休",
+      "hours_parsed": true,
+      "closed_days": [
+        1
+      ],
+      "curator_note": "脆友＋嘎嘎推薦：十三香炸雞、剝皮辣椒雞腿、海臉奶油炸蝦麵",
+      "confidence": "high",
+      "notes": "陽明公園附近；手抓海鮮、戰斧豬排。⚠️另有八德店資料出現 → 分店待確認",
+      "sources": [
+        "愛食記",
+        "WalkerLand",
+        "VIVIYU",
+        "fonfood",
+        "痞客邦"
+      ]
+    },
+    {
+      "id": "t038",
+      "name": "島語 桃園台茂店",
+      "district": "蘆竹區",
+      "address": "桃園市蘆竹區南崁路一段112號6F（台茂購物中心6F）",
+      "phone": "03-2868081",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "自助餐",
+        "吃到飽"
+      ],
+      "price_min": 1490,
+      "price_max": 2090,
+      "price_raw": "平日午1490／晚1790；假日午1790／下午茶1490／晚2090",
+      "hours": [
+        {
+          "open": "11:30",
+          "close": "14:30",
+          "overnight": false
+        },
+        {
+          "open": "17:30",
+          "close": "21:00",
+          "overnight": false
+        },
+        {
+          "open": "11:30",
+          "close": "14:00",
+          "overnight": false
+        },
+        {
+          "open": "14:30",
+          "close": "17:00",
+          "overnight": false
+        },
+        {
+          "open": "18:00",
+          "close": "21:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "一至四 午11:30-14:30、晚17:30-21:00；五至日及國定假日 午11:30-14:00、下午茶14:30-17:00、晚18:00-21:30",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "",
+      "confidence": "high",
+      "notes": "漢來美食；線上訂位為主；號稱全台最難訂",
+      "sources": [
+        "食尚玩家",
+        "VIVIYU",
+        "蘋果樹",
+        "艾瑪",
+        "漢來官網"
+      ]
+    },
+    {
+      "id": "t039",
+      "name": "第三航廈機場咖啡",
+      "district": "大園區",
+      "address": "337桃園市大園區海豐坡15鄰6-3號",
+      "phone": "03-3819969",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "咖啡",
+        "景觀"
+      ],
+      "price_min": 120,
+      "price_max": 120,
+      "price_raw": "低消120/人",
+      "hours": [
+        {
+          "open": "10:00",
+          "close": "00:00",
+          "overnight": true
+        }
+      ],
+      "hours_raw": "10:00-00:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：鬆餅好吃",
+      "confidence": "high",
+      "notes": "桃園機場南跑道旁看飛機；有停車場；寵物友善",
+      "sources": [
+        "卡夫卡愛旅行",
+        "AJ",
+        "蘋果樹",
+        "小玉兒",
+        "雯雯"
+      ]
+    },
+    {
+      "id": "t040",
+      "name": "CUON 春花卷 - 海鮮酸辣米線",
+      "district": "桃園區",
+      "address": "桃園市桃園區大林路118號",
+      "phone": "0983555118",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "越式",
+        "米線"
+      ],
+      "price_min": 118,
+      "price_max": 340,
+      "price_raw": "均消340；招牌春花卷138（原118）",
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "21:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:00-21:00，週三公休",
+      "hours_parsed": true,
+      "closed_days": [
+        3
+      ],
+      "curator_note": "嘎嘎推薦：海鮮酸辣湯河粉，本身帶一點蕃茄味，加辣椒、檸檬汁更好吃，份量超大",
+      "confidence": "high",
+      "notes": "桃園後火車站；越南為主融合泰式",
+      "sources": [
+        "愛食記",
+        "VIVIYU",
+        "痞客邦 Ellen's",
+        "foodpanda",
+        "autoreserve"
+      ]
+    },
+    {
+      "id": "t041",
+      "name": "IDEA Jazz Tavern - Caf 'e",
+      "district": "中壢區",
+      "address": "桃園市中壢區三和二街7號",
+      "phone": "03-4563903",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "酒吧",
+        "咖啡"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": "$（平價）",
+      "hours": [
+        {
+          "open": "19:00",
+          "close": "03:00",
+          "overnight": true
+        }
+      ],
+      "hours_raw": "一至日 19:00-03:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "朋友＋嘎嘎推薦：聊天好地方，熱茶一大壺可回沖，超過$150元飲料有送奶油吐司",
+      "confidence": "high",
+      "notes": "中原大學商圈；號稱中原最便宜酒吧；吐司吃到飽",
+      "sources": [
+        "foursquare",
+        "footinder",
+        "美美網",
+        "vocus",
+        "FB/IG"
+      ]
+    },
+    {
+      "id": "t042",
+      "name": "竹記美食堂",
+      "district": "桃園區",
+      "address": "桃園市桃園區民生路262號",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "熱炒",
+        "炒飯"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": "$（平價）",
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：平價熱炒，油條鮮蚵、鳳梨蝦球",
+      "confidence": "med",
+      "notes": "⚠️ 營業時間查無。免開統一發票；澳洲牛、台灣豬",
+      "sources": [
+        "Uber Eats",
+        "台灣公司網",
+        "ETtoday"
+      ]
+    },
+    {
+      "id": "t043",
+      "name": "No.5 你家廚房",
+      "district": null,
+      "address": null,
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "甜品"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "朋友推薦",
+      "confidence": "none",
+      "notes": "🔴 查無。命中的是新北5號廚房、中壢我家廚房等其他店",
+      "sources": []
+    },
+    {
+      "id": "t044",
+      "name": "LLLpizzeria.參角披薩坊（無接待六歲以下）",
+      "district": "桃園區",
+      "address": "桃園市桃園區永順街31巷口",
+      "phone": "0979887836",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "義式",
+        "披薩"
+      ],
+      "price_min": 300,
+      "price_max": 300,
+      "price_raw": "均消300",
+      "hours": [
+        {
+          "open": "11:30",
+          "close": "14:30",
+          "overnight": false
+        },
+        {
+          "open": "17:00",
+          "close": "21:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:30-14:30、17:00-21:00，週三公休",
+      "hours_parsed": true,
+      "closed_days": [
+        3
+      ],
+      "curator_note": "朋友推薦",
+      "confidence": "high",
+      "notes": "手工拿坡里披薩；中路美食；寵物友善",
+      "sources": [
+        "愛食記",
+        "VIVIYU",
+        "WalkerLand",
+        "水晶安蹄",
+        "LINE熱點"
+      ]
+    },
+    {
+      "id": "t045",
+      "name": "32巷豆腐店",
+      "district": "桃園區",
+      "address": "桃園市桃園區北埔里莊敬路二段32巷3號",
+      "phone": "03-3026199",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "豆腐",
+        "豆花"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "20:00",
+          "overnight": false
+        },
+        {
+          "open": "11:00",
+          "close": "21:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:00-20:00（Uber Eats 標 一至六 11:00-21:00、週日休）",
+      "hours_parsed": true,
+      "closed_days": [
+        0
+      ],
+      "curator_note": "朋友推薦",
+      "confidence": "high",
+      "notes": "藝文商圈；木棉豆腐、豆花、豆漿、創意豆腐皮涼麵。⚠️兩來源營業時間不一致",
+      "sources": [
+        "Uber Eats",
+        "台灣公司網",
+        "TWINC"
+      ]
+    },
+    {
+      "id": "t046",
+      "name": "永順豆腐店 豆腐 豆乳 豆花 豆製品專賣",
+      "district": "桃園區",
+      "address": "桃園市桃園區永順街53號",
+      "phone": "03-3025553",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "豆腐",
+        "豆花"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "10:00",
+          "close": "21:00",
+          "overnight": false
+        },
+        {
+          "open": "10:00",
+          "close": "17:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "10:00-21:00（週六 10:00-17:00，週日公休）",
+      "hours_parsed": true,
+      "closed_days": [
+        0
+      ],
+      "curator_note": "朋友推薦：黑豆漿、豆花",
+      "confidence": "high",
+      "notes": "藝文特區；手工豆花、豆乳濃郁；門口可臨停",
+      "sources": [
+        "愛食記",
+        "愛伯特"
+      ]
+    },
+    {
+      "id": "t047",
+      "name": "肉球尼尼 Meatball Nini",
+      "district": "桃園區",
+      "address": "330桃園市桃園區水岸七街100號",
+      "phone": "03-3578786",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "早午餐",
+        "咖啡",
+        "燉飯"
+      ],
+      "price_min": 400,
+      "price_max": 400,
+      "price_raw": "均消400；低消每人一主餐",
+      "hours": [
+        {
+          "open": "10:00",
+          "close": "17:00",
+          "overnight": false
+        },
+        {
+          "open": "09:00",
+          "close": "17:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "平日 10:00-17:00；假日 09:00-17:00（16:00最後點餐，週三公休）",
+      "hours_parsed": true,
+      "closed_days": [
+        3
+      ],
+      "curator_note": "",
+      "confidence": "high",
+      "notes": "已搬家三次，此為最新址（經國轉運站）；限時90分；掃碼點餐、不收服務費、只收現金；寵物友善",
+      "sources": [
+        "愛食記",
+        "VIVIYU",
+        "upssmile",
+        "德妹",
+        "OpenRice"
+      ]
+    },
+    {
+      "id": "t048",
+      "name": "呂家台南東山鴨頭",
+      "district": "蘆竹區",
+      "address": "桃園市蘆竹區南崁路152-13號",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "東山鴨頭",
+        "小吃"
+      ],
+      "price_min": 10,
+      "price_max": 100,
+      "price_raw": "鴨頭40／大腸頭90／花枝丸30／豬血糕10／鴨胗25／甜不辣20／豆干10／鴨腸30；均消約100",
+      "hours": [
+        {
+          "open": "17:30",
+          "close": "01:00",
+          "overnight": true
+        }
+      ],
+      "hours_raw": "17:30-01:00（每日）",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "",
+      "confidence": "high",
+      "notes": "需排隊半小時以上；老闆健談",
+      "sources": [
+        "愛食記",
+        "飢餓黑熊",
+        "Threads @staf0951",
+        "PTT Food",
+        "痞客邦"
+      ]
+    },
+    {
+      "id": "t049",
+      "name": "一品味私房菜",
+      "district": "桃園區",
+      "address": "桃園市桃園區中寧街20號",
+      "phone": "03-3256393",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "客家",
+        "台菜",
+        "家常"
+      ],
+      "price_min": 150,
+      "price_max": 300,
+      "price_raw": "均消300；商業午餐150（週一至五）",
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "14:00",
+          "overnight": false
+        },
+        {
+          "open": "17:00",
+          "close": "21:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:00-14:00、17:00-21:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：適合兩個人吃的熱炒；豆腐扁鱈、椒鹽豬排、塔香茄子；❌客家小炒不要點",
+      "confidence": "high",
+      "notes": "中正藝文特區；古早味芋頭米粉湯",
+      "sources": [
+        "愛食記",
+        "VIVIYU",
+        "Irene's",
+        "footinder",
+        "痞客邦"
+      ]
+    },
+    {
+      "id": "t050",
+      "name": "香迷糊東北鐵鍋燉（預約制）",
+      "district": "蘆竹區",
+      "address": "桃園市蘆竹區瓦窯里南山路一段60號",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "東北菜",
+        "鐵鍋燉"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "朋友推薦　🔴暫時關閉",
+      "confidence": "med",
+      "notes": "🔴 清單標【暫時關閉】。預約制；2025 年設立，負責人周薇；營業時間與價格查無",
+      "sources": [
+        "食尚玩家",
+        "台灣公司網",
+        "LawPlayer",
+        "痞客邦"
+      ]
+    },
+    {
+      "id": "t051",
+      "name": "華之饌",
+      "district": "桃園區",
+      "address": "330桃園市桃園區中山路954號（武陵高中附近）",
+      "phone": "03-3441868",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "北方麵食"
+      ],
+      "price_min": 10,
+      "price_max": 80,
+      "price_raw": "木須炒麵80；貢丸湯40；蒸餃10顆60",
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "14:00",
+          "overnight": false
+        },
+        {
+          "open": "17:00",
+          "close": "20:20",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "一至六 11:00-14:00、17:00-20:20；週日公休",
+      "hours_parsed": true,
+      "closed_days": [
+        0
+      ],
+      "curator_note": "嘎妹推薦：木須炒麵、炒飯、銀絲捲很神",
+      "confidence": "high",
+      "notes": "大份量北方麵食；愛買附近",
+      "sources": [
+        "PTT Taoyuan",
+        "fonfood",
+        "阿綿",
+        "footinder",
+        "痞客邦"
+      ]
+    },
+    {
+      "id": "t052",
+      "name": "籠架碳烤",
+      "district": null,
+      "address": null,
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "碳烤",
+        "燒烤"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：炸豆包＋醬汁甜口好吃",
+      "confidence": "none",
+      "notes": "🔴 地址/時間查無。Uber Eats 有「籠萊碳烤」（字不同，疑似同店待確認）",
+      "sources": [
+        "Uber Eats"
+      ]
+    },
+    {
+      "id": "t053",
+      "name": "微笑曲線早餐店",
+      "district": "桃園區",
+      "address": "330桃園市桃園區中埔二街208號",
+      "phone": "03-3550720",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "早餐"
+      ],
+      "price_min": 25,
+      "price_max": 60,
+      "price_raw": "紅茶豆漿25／九層塔起司蛋餅35／普羅旺斯雞腿50／泰式檸檬雞墨西哥捲餅60",
+      "hours": [
+        {
+          "open": "06:00",
+          "close": "13:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "06:00-13:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：薯餅起司歐姆蛋（大推）",
+      "confidence": "high",
+      "notes": "藝文特區附近；蛋餅超過20種口味",
+      "sources": [
+        "WalkerLand",
+        "Threads @litinghsu.0111",
+        "痞客邦",
+        "愛食記"
+      ]
+    },
+    {
+      "id": "t054",
+      "name": "俺ん家ラーメン（湯賣完先關門～）",
+      "district": "桃園區",
+      "address": "330桃園市桃園區中埔一街27號1樓",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "拉麵",
+        "日式"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "11:30",
+          "close": "15:30",
+          "overnight": false
+        },
+        {
+          "open": "16:30",
+          "close": "20:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:30-15:30、16:30-20:30；週三、週六公休",
+      "hours_parsed": true,
+      "closed_days": [
+        6
+      ],
+      "curator_note": "嘎嘎推薦：日本人開的日本口味拉麵，豚骨醬油平常口味正常者建議選「淡」",
+      "confidence": "high",
+      "notes": "藝文特區；沖繩老闆夫妻經營",
+      "sources": [
+        "VIVIYU",
+        "Threads @kirakira_g_i_r_l",
+        "痞客邦 Ellen's",
+        "愛食記"
+      ]
+    },
+    {
+      "id": "t055",
+      "name": "林李傳螃蟹薑母鴨 桃園八德店",
+      "district": "八德區",
+      "address": "桃園市八德區介壽路二段1485號",
+      "phone": "03-3655995",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "薑母鴨",
+        "火鍋"
+      ],
+      "price_min": 350,
+      "price_max": 1600,
+      "price_raw": "紅蟳一隻350；一餐約1600",
+      "hours": [
+        {
+          "open": "16:30",
+          "close": "01:00",
+          "overnight": true
+        }
+      ],
+      "hours_raw": "16:30-01:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "脆友推薦",
+      "confidence": "high",
+      "notes": "北部唯一分店（屏東、竹北另有）；附近無停車場",
+      "sources": [
+        "艾瑪",
+        "VIVIYU",
+        "潔妮",
+        "LINE熱點",
+        "台灣公司網"
+      ]
+    },
+    {
+      "id": "t056",
+      "name": "陸光眷村老滷",
+      "district": "龜山區",
+      "address": "桃園市龜山區中興路一段57號",
+      "phone": "0913012123",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "滷味"
+      ],
+      "price_min": 14,
+      "price_max": 100,
+      "price_raw": "14隻雞腳100",
+      "hours": [
+        {
+          "open": "16:00",
+          "close": "22:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "16:00-22:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "🔴地點已不存在",
+      "confidence": "high",
+      "notes": "🔴🔴 【清單標「地點已不存在」，但網路食記寫得活靈活現：天天熱賣超過5000隻、有訂購專線】←【第三個同樣的案例】",
+      "sources": [
+        "About Hsuan",
+        "小美很愛嚐",
+        "LINE OpenChat"
+      ]
+    },
+    {
+      "id": "t057",
+      "name": "CAFE STAY",
+      "district": "桃園區",
+      "address": "330桃園市桃園區力行路550巷9號",
+      "phone": "03-3695001",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "咖啡",
+        "早午餐",
+        "燉飯"
+      ],
+      "price_min": 350,
+      "price_max": 999,
+      "price_raw": "NT$999以下；炙烤菊芋紅麴奶油燉飯350",
+      "hours": [
+        {
+          "open": "09:30",
+          "close": "21:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "09:30-21:00，全週無公休",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "朋友＋嘎嘎推薦：鮭魚燉飯好吃有淡淡檸檬味、海鮮披薩喜歡厚脆皮的會愛",
+      "confidence": "high",
+      "notes": "旅人咖啡新品牌；中路特區三層玻璃屋＋旋轉樓梯；寵物友善",
+      "sources": [
+        "VIVIYU",
+        "upssmile",
+        "阿綿",
+        "iCHEF",
+        "OpenTable"
+      ]
+    },
+    {
+      "id": "t058",
+      "name": "金福記擔仔麵",
+      "district": "桃園區",
+      "address": "桃園市桃園區中山路39號（近桃園大廟）",
+      "phone": "0983573998",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "擔仔麵",
+        "小吃",
+        "宵夜"
+      ],
+      "price_min": 40,
+      "price_max": 260,
+      "price_raw": "擔仔麵40／五味小章魚100／五味中卷160／燙青蚵260／水煮牛肉230；均消約200",
+      "hours": [
+        {
+          "open": "16:00",
+          "close": "02:00",
+          "overnight": true
+        }
+      ],
+      "hours_raw": "一至日 16:00-02:00，不定期公休",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "咖媽推薦＋嘎妹推薦",
+      "confidence": "high",
+      "notes": "古早味宵夜；4.9分",
+      "sources": [
+        "愛食記",
+        "PTT Taoyuan ×2",
+        "阿綿",
+        "飢餓黑熊",
+        "GOMAJI"
+      ]
+    },
+    {
+      "id": "t059",
+      "name": "Puzzle coffee",
+      "district": "大園區",
+      "address": "桃園市大園區新生路四段249號",
+      "phone": "03-2873963",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "咖啡",
+        "甜點"
+      ],
+      "price_min": 200,
+      "price_max": 200,
+      "price_raw": "均消200",
+      "hours": [
+        {
+          "open": "07:00",
+          "close": "17:30",
+          "overnight": false
+        },
+        {
+          "open": "09:00",
+          "close": "17:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "平日 07:00-17:30；假日 09:00-17:30；週三公休",
+      "hours_parsed": true,
+      "closed_days": [
+        3
+      ],
+      "curator_note": "嘎嘎推薦：黑芝麻雞胸三明治（芝麻香雞胸肉軟）、雞胸沙拉早上吃很舒服的量、手沖咖啡濃香",
+      "confidence": "high",
+      "notes": "青埔／高鐵站、機捷A18附近；不限時；親子友善",
+      "sources": [
+        "愛食記",
+        "下一站天涯",
+        "VIVIYU",
+        "蘋果樹",
+        "飢餓黑熊"
+      ]
+    },
+    {
+      "id": "t060",
+      "name": "D&B綠色咖啡館",
+      "district": "大園區",
+      "address": "桃園市大園區溪海里聖德北路847號",
+      "phone": "0963529572",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "咖啡",
+        "漢堡"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": "百元低消",
+      "hours": [
+        {
+          "open": "10:00",
+          "close": "17:00",
+          "overnight": false
+        },
+        {
+          "open": "10:00",
+          "close": "17:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "日、一、四、五、六 10:00-17:00（另有來源標 10:00-17:30；公休見FB）",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：牛肉漢堡好吃，麵包很特別，安神花草茶推薦",
+      "confidence": "high",
+      "notes": "和春花卉農場旁；平日建議先去電或訊息預約；寵物友善。⚠️兩來源時間略有出入",
+      "sources": [
+        "About Hsuan",
+        "ALICE",
+        "travelwithlinlin",
+        "蔣妮i拍"
+      ]
+    },
+    {
+      "id": "t061",
+      "name": "集品早午餐",
+      "district": null,
+      "address": null,
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "早午餐"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：蛋沙拉無敵、沙拉生菜清脆、美式夠濃",
+      "confidence": "none",
+      "notes": "🔴 查無。搜尋只命中桃園其他早午餐店",
+      "sources": []
+    },
+    {
+      "id": "t062",
+      "name": "逸小鍋 鍋の物 中壢健行店",
+      "district": "中壢區",
+      "address": "桃園市中壢區健行路245-1號",
+      "phone": "03-4285757",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "小火鍋",
+        "吃到飽"
+      ],
+      "price_min": 160,
+      "price_max": 230,
+      "price_raw": "均消180；160-230",
+      "hours": [
+        {
+          "open": "10:00",
+          "close": "23:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "10:00-23:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：奶香麻辣鍋、藥膳湯頭濃",
+      "confidence": "high",
+      "notes": "健行科大旁；近30種湯頭；自助吧麵食飲料冰淇淋免費",
+      "sources": [
+        "愛食記",
+        "WalkerLand ×2",
+        "Mobile01",
+        "艾莉絲",
+        "多篇痞客邦"
+      ]
+    },
+    {
+      "id": "t063",
+      "name": "7-ELEVEN 泰昌門市",
+      "district": "桃園區",
+      "address": "桃園市桃園區泰昌三街51之6號",
+      "phone": "03-2201788",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "便利商店"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": "24小時（超商）",
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：門口的小貨車賣鳳梨，全桃園最好吃的鳳梨",
+      "confidence": "high",
+      "notes": "策展者註記：門口的小貨車賣鳳梨，全桃園最好吃 ← 這是超商本身以外的資訊，Google 不會有",
+      "sources": [
+        "twcoupon",
+        "7-11 官網門市查詢"
+      ]
+    },
+    {
+      "id": "t064",
+      "name": "吉力脆雞",
+      "district": "蘆竹區",
+      "address": "桃園市蘆竹區五福一路10號",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "炸雞",
+        "炸物"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "16:00",
+          "close": "23:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "16:00-23:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "脆友推薦",
+      "confidence": "high",
+      "notes": "南崁店；另有 Eats365／iCHEF 線上點餐",
+      "sources": [
+        "FB 吉力脆雞",
+        "Uber Eats",
+        "iCHEF",
+        "Eats365",
+        "小雞上工"
+      ]
+    },
+    {
+      "id": "t065",
+      "name": "光咖啡/咖啡甜點外帶店",
+      "district": "桃園區",
+      "address": "330桃園市桃園區廈門街61巷1號",
+      "phone": "03-3320998",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "咖啡",
+        "甜點"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "08:00",
+          "close": "18:00",
+          "overnight": false
+        },
+        {
+          "open": "13:00",
+          "close": "18:00",
+          "overnight": false
+        },
+        {
+          "open": "07:30",
+          "close": "18:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "一至五 08:00-18:00；日 13:00-18:00；週六公休（另有來源標 07:30-18:00）",
+      "hours_parsed": true,
+      "closed_days": [
+        6
+      ],
+      "curator_note": "朋友推薦：每天都會有不同的麵包出爐",
+      "confidence": "high",
+      "notes": "市政府後方商圈；千層蛋糕與貝果；每週公布下週麵包品項（與策展者註記「每天都會有不同的麵包出爐」一致）",
+      "sources": [
+        "VIVIYU",
+        "Bonsoir Éva",
+        "Uber Eats"
+      ]
+    },
+    {
+      "id": "t066",
+      "name": "東湖餐廳",
+      "district": null,
+      "address": null,
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "餐廳"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "脆友推薦",
+      "confidence": "none",
+      "notes": "🔴 查無。搜尋命中台北東湖捷運站商圈與新竹竹東『東之湖餐廳』，均非同店",
+      "sources": []
+    },
+    {
+      "id": "t067",
+      "name": "涂媽媽鹽酥雞",
+      "district": "桃園區",
+      "address": "330桃園市桃園區慈文路41號",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "鹽酥雞",
+        "炸物"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "嘎嘎＋嘎妹推薦：馬鈴薯條、地瓜薯條好吃",
+      "confidence": "med",
+      "notes": "⚠️ 只查到地址；營業時間與價格查無",
+      "sources": [
+        "footinder",
+        "FB"
+      ]
+    },
+    {
+      "id": "t068",
+      "name": "米食堂",
+      "district": "桃園區",
+      "address": "330桃園市桃園區永安路265號",
+      "phone": "03-3398822",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "鹹粥",
+        "米粉湯",
+        "小吃"
+      ],
+      "price_min": 20,
+      "price_max": 20,
+      "price_raw": "鹹粥／米粉湯小碗 20",
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "16:00",
+          "overnight": false
+        },
+        {
+          "open": "11:00",
+          "close": "20:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "三、四、五 11:00-16:00；六、日 11:00-20:00；一、二 公休",
+      "hours_parsed": true,
+      "closed_days": [
+        1,
+        2
+      ],
+      "curator_note": "嘎嘎推薦：紅燒肉、雞捲、油豆腐；漲價了菜單更改小菜少了很多（小失望）",
+      "confidence": "high",
+      "notes": "永安路人氣小吃；必點紅燒肉與雞卷（與策展者註記一致）",
+      "sources": [
+        "愛食記",
+        "WalkerLand",
+        "阿綿",
+        "小妞的生活旅程",
+        "薄荷凱西"
+      ]
+    },
+    {
+      "id": "t069",
+      "name": "陽台terrase2号店（慈惠店）",
+      "district": "中壢區",
+      "address": "32085桃園市中壢區慈惠三街34號",
+      "phone": "03-4250063",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "咖啡",
+        "早午餐"
+      ],
+      "price_min": 130,
+      "price_max": 130,
+      "price_raw": "均消130；低消一人一杯飲品",
+      "hours": [
+        {
+          "open": "11:30",
+          "close": "21:00",
+          "overnight": false
+        },
+        {
+          "open": "11:30",
+          "close": "19:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "二至六 11:30-21:00；日 11:30-19:00；週一公休",
+      "hours_parsed": true,
+      "closed_days": [
+        1
+      ],
+      "curator_note": "嘎嘎推薦：珍珠奶茶可以續杯奶味重、蜂餅可以有三種醬搭配好吃",
+      "confidence": "high",
+      "notes": "中壢威尼斯影城旁；日系複合式；珍奶起家；不收服務費。⚠️另一來源標 11:30-19:00",
+      "sources": [
+        "WalkerLand ×2",
+        "瑋瑋美食萬歲",
+        "愛食記"
+      ]
+    },
+    {
+      "id": "t070",
+      "name": "冰山一角",
+      "district": "平鎮區",
+      "address": null,
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "冰品"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "朋友推薦：珍珠奶茶、綠豆沙",
+      "confidence": "none",
+      "notes": "⚠️ 僅知在平鎮區；地址與時間查無。紅豆牛奶冰、黑糖剉冰、仙草奶凍、鹽滷豆花",
+      "sources": [
+        "OpenRice"
+      ]
+    },
+    {
+      "id": "t071",
+      "name": "韓一館",
+      "district": "中壢區",
+      "address": "桃園市中壢區中山東路一段321號",
+      "phone": "03-4653308",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "韓式",
+        "銅盤烤肉",
+        "吃到飽"
+      ],
+      "price_min": 395,
+      "price_max": 395,
+      "price_raw": "均消395",
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "15:00",
+          "overnight": false
+        },
+        {
+          "open": "17:00",
+          "close": "22:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:00-15:00、17:00-22:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "嘎嘎推薦：海鮮煎餅＆拔絲地瓜也是吃到飽；石鍋拌飯鍋巴很美　🔴永久歇業",
+      "confidence": "high",
+      "notes": "🔴🔴 【清單標永久歇業，但網路食記全部仍寫營業中、無任何歇業記載】←【關鍵發現：部落格比 Google 更過期】",
+      "sources": [
+        "愛食記",
+        "奇奇一起玩樂趣",
+        "KLOOK",
+        "GOMAJI"
+      ]
+    },
+    {
+      "id": "t072",
+      "name": "麵屋杉貝｜SUGIKAI",
+      "district": "中壢區",
+      "address": "桃園市中壢區三和二街9號",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "拉麵",
+        "日式"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": "$$",
+      "hours": [
+        {
+          "open": "17:00",
+          "close": "20:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "二至六 17:00-20:30（試營運期間）",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "朋友推薦：舒肥雞非常嫩有炙燒香氣，份量偏少，胃口大建議直接加麵",
+      "confidence": "high",
+      "notes": "由「翔大拉麵」改名遷址；新竹麵屋杉玉姊妹店，菜單同步",
+      "sources": [
+        "FB ShotaRamen",
+        "Threads @iam_edward46"
+      ]
+    },
+    {
+      "id": "t073",
+      "name": "我孫子拉麵 Abiko",
+      "district": "中壢區",
+      "address": "桃園市中壢區忠孝路125號",
+      "phone": "0930139691",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "拉麵",
+        "日式"
+      ],
+      "price_min": 220,
+      "price_max": 300,
+      "price_raw": "均消300；拉麵220起",
+      "hours": [
+        {
+          "open": "11:30",
+          "close": "14:30",
+          "overnight": false
+        },
+        {
+          "open": "17:00",
+          "close": "20:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:30-14:30、17:00-20:30",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "",
+      "confidence": "high",
+      "notes": "內壢前站附近；為二店",
+      "sources": [
+        "愛食記",
+        "VIVIYU",
+        "PTT Food/ChungLi",
+        "foodpanda",
+        "萌芽悠遊網"
+      ]
+    },
+    {
+      "id": "t074",
+      "name": "Lazy Brunch慵懶早午餐",
+      "district": "桃園區",
+      "address": "桃園市桃園區永光街110號",
+      "phone": "03-3315931",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "早午餐"
+      ],
+      "price_min": 100,
+      "price_max": 270,
+      "price_raw": "不收服務費；低消100/人；餐點約200-270",
+      "hours": [
+        {
+          "open": "10:00",
+          "close": "17:00",
+          "overnight": false
+        },
+        {
+          "open": "09:00",
+          "close": "15:00",
+          "overnight": false
+        },
+        {
+          "open": "09:00",
+          "close": "16:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "10:00-17:00，週一公休（部分來源標 09:00-15:00 或 09:00-16:00）",
+      "hours_parsed": true,
+      "closed_days": [
+        1
+      ],
+      "curator_note": "嘎妹＋嘎嘎推薦：楓糖鮭魚、香檸炸雞、楓糖法式吐司；價格合理又好吃；升格桃園前三名早午餐",
+      "confidence": "high",
+      "notes": "桃園夜市附近巷弄；寵物友善。⚠️各來源時間不一致",
+      "sources": [
+        "Uber Eats",
+        "薄荷凱西",
+        "小千走跳日記",
+        "ALICE"
+      ]
+    },
+    {
+      "id": "t075",
+      "name": "滝禾製麵所-中壢中山店（拉麵專賣）",
+      "district": "中壢區",
+      "address": "桃園市中壢區中山路400號",
+      "phone": "03-4911778",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "拉麵",
+        "日式"
+      ],
+      "price_min": 150,
+      "price_max": 150,
+      "price_raw": "均消150",
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "14:30",
+          "overnight": false
+        },
+        {
+          "open": "16:30",
+          "close": "21:00",
+          "overnight": false
+        },
+        {
+          "open": "11:30",
+          "close": "14:30",
+          "overnight": false
+        },
+        {
+          "open": "16:00",
+          "close": "21:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:00-14:30、16:30-21:00（另一來源 11:30-14:30、16:00-21:30）",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "朋友推薦：柚雞白湯",
+      "confidence": "high",
+      "notes": "湯頭/麵條/肉類可自由搭配；中壢第二市場。⚠️兩來源時間不一致",
+      "sources": [
+        "官網 longhoramen",
+        "fonfood",
+        "footinder",
+        "雯雯",
+        "Elsa",
+        "foodpanda"
+      ]
+    },
+    {
+      "id": "t076",
+      "name": "魚夫子海鮮餐廳",
+      "district": "桃園區",
+      "address": "桃園市桃園區正光路70號",
+      "phone": "03-3368788",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "海鮮",
+        "熱炒"
+      ],
+      "price_min": 130,
+      "price_max": 800,
+      "price_raw": "均消800；客家炒大腸130／金沙鮮白蝦250／鳳梨蝦球250",
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "14:00",
+          "overnight": false
+        },
+        {
+          "open": "17:00",
+          "close": "23:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:00-14:00、17:00-23:00",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "朋友＋嘎嘎推薦：油條蚵仔",
+      "confidence": "high",
+      "notes": "中路重劃區；有包廂與停車場；白飯免費吃到飽",
+      "sources": [
+        "愛食記",
+        "PTT Food",
+        "輕旅行",
+        "飢餓黑熊",
+        "footinder",
+        "痞客邦"
+      ]
+    },
+    {
+      "id": "t077",
+      "name": "雲邊一串香",
+      "district": "中壢區",
+      "address": "桃園市中壢區自信里莊敬路811巷18號",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "串香",
+        "麻辣"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [
+        {
+          "open": "17:30",
+          "close": "23:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "二至日 17:30-23:30",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "朋友推薦：炸雞漢堡",
+      "confidence": "high",
+      "notes": "與 LaiFu Pasta 同在莊敬路811巷（相鄰）",
+      "sources": [
+        "foodpanda",
+        "台灣公司網",
+        "中華黃頁"
+      ]
+    },
+    {
+      "id": "t078",
+      "name": "武田信玄",
+      "district": "中壢區",
+      "address": "桃園市中壢區中山東路三段67號",
+      "phone": "03-4662633",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "日式",
+        "無菜單",
+        "海鮮"
+      ],
+      "price_min": 980,
+      "price_max": 980,
+      "price_raw": "每人980，免服務費",
+      "hours": [
+        {
+          "open": "11:30",
+          "close": "14:30",
+          "overnight": false
+        },
+        {
+          "open": "17:30",
+          "close": "21:30",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "11:30-14:30、17:30-21:30",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "脆友＋朋友推薦：安全牌沒有讓人印象深刻的料理",
+      "confidence": "high",
+      "notes": "預約制需訂金；門口3車位；座位少難訂",
+      "sources": [
+        "瑋瑋美食萬歲",
+        "WalkerLand",
+        "豆哥",
+        "Elsa",
+        "多篇痞客邦"
+      ]
+    },
+    {
+      "id": "t079",
+      "name": "東雲食堂無菜單料理",
+      "district": null,
+      "address": null,
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "無菜單",
+        "日式",
+        "海鮮"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "朋友推薦",
+      "confidence": "none",
+      "notes": "🔴 查無。搜尋命中宗初食堂、樹園子、蘭亭映月等其他無菜單料理店",
+      "sources": []
+    },
+    {
+      "id": "t080",
+      "name": "御冠園鮮肉湯包專賣店",
+      "district": "中壢區",
+      "address": "320桃園市中壢區實踐路88號",
+      "phone": "0932282335",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "湯包",
+        "小吃"
+      ],
+      "price_min": 7,
+      "price_max": 80,
+      "price_raw": "一籠80（7個）；紅茶/奶茶10",
+      "hours": [
+        {
+          "open": "06:00",
+          "close": "00:30",
+          "overnight": true
+        }
+      ],
+      "hours_raw": "06:00-00:30",
+      "hours_parsed": true,
+      "closed_days": [],
+      "curator_note": "脆友推薦",
+      "confidence": "high",
+      "notes": "中原夜市排隊名店；辣醬是精髓；另有大溪、桃園等分店 → ⚠️分店",
+      "sources": [
+        "周花花",
+        "WalkerLand",
+        "VIVIYU",
+        "upssmile",
+        "PEKO",
+        "小咪ma"
+      ]
+    },
+    {
+      "id": "t081",
+      "name": "巧口快餐店",
+      "district": "龜山區",
+      "address": "333桃園市龜山區大同路111之5號",
+      "phone": "03-3203035",
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "便當",
+        "快餐"
+      ],
+      "price_min": 70,
+      "price_max": 90,
+      "price_raw": "便當90（原70）",
+      "hours": [
+        {
+          "open": "10:00",
+          "close": "14:00",
+          "overnight": false
+        },
+        {
+          "open": "15:30",
+          "close": "19:00",
+          "overnight": false
+        }
+      ],
+      "hours_raw": "一至五 10:00-14:00、15:30-19:00；六日公休",
+      "hours_parsed": true,
+      "closed_days": [
+        0,
+        6
+      ],
+      "curator_note": "朋友推薦",
+      "confidence": "high",
+      "notes": "銘傳大學旁排隊便當店；五種現炒配菜；熱湯免費；常六點半售完",
+      "sources": [
+        "VIVIYU",
+        "愛伯特 ×2",
+        "PTT MCU_Talk",
+        "LINE熱點",
+        "痞客邦"
+      ]
+    },
+    {
+      "id": "t082",
+      "name": "匠心牛作 牛肉麵專門",
+      "district": null,
+      "address": null,
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "google_place_id": null,
+      "cuisine": [
+        "牛肉麵"
+      ],
+      "price_min": null,
+      "price_max": null,
+      "price_raw": null,
+      "hours": [],
+      "hours_raw": null,
+      "hours_parsed": false,
+      "closed_days": [],
+      "curator_note": "",
+      "confidence": "none",
+      "notes": "🔴 查無。最接近的是蘆竹南崁『匠骰子牛牛肉麵』（牛肉麵120起），但非同名店",
+      "sources": []
+    }
+  ]
+}
